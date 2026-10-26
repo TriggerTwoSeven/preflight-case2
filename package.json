@@ -1,0 +1,11 @@
+{
+  "name": "preflight-case2",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Pre-Flight: conversational shipment booking and pre-flight error checker (AI x Ops Hackathon, Case 2)",
+  "scripts": {
+    "test": "node test/engine.test.js && node test/parser.test.js && node test/api.test.js",
+    "start": "npx --yes serve public -l 3000",
+    "dev": "npx --yes vercel dev"
+  }
+}
