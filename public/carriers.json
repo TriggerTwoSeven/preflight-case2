@@ -1,0 +1,96 @@
+{
+  "verified": true,
+  "source": "Case 2 template, Sheet 3 Carrier options (fixed rate card)",
+  "carriers": [
+    {
+      "carrier": "Carrier A",
+      "service": "Road economy",
+      "origin": "United Kingdom",
+      "destination": "Germany",
+      "pricePerPallet": 180,
+      "transitDays": 5,
+      "onTime": 92,
+      "maxWeightPerPallet": 500
+    },
+    {
+      "carrier": "Carrier B",
+      "service": "Road standard",
+      "origin": "United Kingdom",
+      "destination": "Germany",
+      "pricePerPallet": 220,
+      "transitDays": 3,
+      "onTime": 95,
+      "maxWeightPerPallet": 750
+    },
+    {
+      "carrier": "Carrier C",
+      "service": "Road express",
+      "origin": "United Kingdom",
+      "destination": "Germany",
+      "pricePerPallet": 340,
+      "transitDays": 2,
+      "onTime": 98,
+      "maxWeightPerPallet": 400
+    },
+    {
+      "carrier": "Carrier A",
+      "service": "Road economy",
+      "origin": "United Kingdom",
+      "destination": "France",
+      "pricePerPallet": 170,
+      "transitDays": 5,
+      "onTime": 92,
+      "maxWeightPerPallet": 500
+    },
+    {
+      "carrier": "Carrier B",
+      "service": "Road standard",
+      "origin": "United Kingdom",
+      "destination": "France",
+      "pricePerPallet": 210,
+      "transitDays": 3,
+      "onTime": 95,
+      "maxWeightPerPallet": 750
+    },
+    {
+      "carrier": "Carrier C",
+      "service": "Road express",
+      "origin": "United Kingdom",
+      "destination": "France",
+      "pricePerPallet": 330,
+      "transitDays": 2,
+      "onTime": 98,
+      "maxWeightPerPallet": 400
+    },
+    {
+      "carrier": "Carrier A",
+      "service": "Road economy",
+      "origin": "United Kingdom",
+      "destination": "Netherlands",
+      "pricePerPallet": 160,
+      "transitDays": 5,
+      "onTime": 92,
+      "maxWeightPerPallet": 500
+    },
+    {
+      "carrier": "Carrier B",
+      "service": "Road standard",
+      "origin": "United Kingdom",
+      "destination": "Netherlands",
+      "pricePerPallet": 200,
+      "transitDays": 3,
+      "onTime": 95,
+      "maxWeightPerPallet": 750
+    },
+    {
+      "carrier": "Carrier C",
+      "service": "Road express",
+      "origin": "United Kingdom",
+      "destination": "Netherlands",
+      "pricePerPallet": 320,
+      "transitDays": 2,
+      "onTime": 98,
+      "maxWeightPerPallet": 400
+    }
+  ]
+}
